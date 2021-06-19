@@ -10,7 +10,7 @@
 
 I know:
 <br />
-<div style="background: white;">
+<div style="background-color: white;">
 <img width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
 <img width="100" height="50" src="https://sdtimes.com/wp-content/uploads/2018/03/spring-boot-490x257.png">
