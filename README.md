@@ -10,6 +10,7 @@
 
 I know:
 <br />
+<div style="background: white;">
 <img width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
 <img width="100" height="50" src="https://sdtimes.com/wp-content/uploads/2018/03/spring-boot-490x257.png">
@@ -36,7 +37,7 @@ I know:
 <img width="100" height="50" src="https://killbill.io/wp-content/uploads/2014/11/docker1.png">
 <img width="70" height="50" src="https://devopedia.org/images/article/45/8328.1526292163.svg">
 <img width="100" height="50" src="https://i.blogs.es/4803e5/jenkins/840_560.png">
-
+</div>
 
 
 
