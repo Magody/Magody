@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=magody.magody)
 <br />
 
-### Portafolio https://magody.github.io/
+### Watch my crazy projects https://magody.github.io/
 
 *Systems Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
