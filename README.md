@@ -33,9 +33,9 @@ I know:
 <img width="70" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png">
 <img width="70" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 <img width="70" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
-<img width="70" height="50" src="https://killbill.io/wp-content/uploads/2014/11/docker1.png">
+<img width="100" height="50" src="https://killbill.io/wp-content/uploads/2014/11/docker1.png">
 <img width="70" height="50" src="https://devopedia.org/images/article/45/8328.1526292163.svg">
-<img width="70" height="50" src="https://i.blogs.es/4803e5/jenkins/840_560.png">
+<img width="100" height="50" src="https://i.blogs.es/4803e5/jenkins/840_560.png">
 
 
 
