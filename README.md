@@ -31,7 +31,7 @@ I know the following technologies:
 <img width="100" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
 <img width="70" height="50" src="https://devopedia.org/images/article/45/8328.1526292163.svg">
 <img width="70" height="50" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
-<img width="70" height="50" src="https://lh3.googleusercontent.com/proxy/Q9aarVeaehJb7YKExMb6-z_dIiV64EnJ869D__Z-noWi9KjLwO1rkv-noOtmmTPeO8go8FNqG8DqDYG_Q1Z5BHADVpwiQxCSJ_hHfnpRUjnZ5PpEdSABb6P0wJ6gekCnrRfNgIFW9w70">
+<img width="70" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
 <img width="70" height="50" src="https://c0.klipartz.com/pngpicture/23/261/sticker-png-responsive-web-design-boilerplate-text-html-template-boilerplate-code-world-wide-web-template-blue-text-trademark-logo.png">
 <img width="100" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjwxX9qvo9UtGxFdIND6JgWOwdWvW6GxLfQkz-F85S0ICnL8gp_klnIHHq9cFp5uGiEg&usqp=CAU">
 <img width="100" height="50" src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg">
