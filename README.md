@@ -4,11 +4,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=magody.magody)
 <br />
 
-### Watch my crazy projects https://magody.github.io/
+### Take a look to my projects https://magody.github.io/
 
 *Systems Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
-I know:
+I know the following technologies:
 <br />
 <img width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png">
