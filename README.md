@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=magody.magody)
 <br />
 
-### Take a look to my projects https://magody.github.io/
+### Take a look to my projects here -> https://magody.github.io/
 
 *Systems Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
 
@@ -43,6 +43,15 @@ I know the following technologies:
 <img width="100" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnog13dK4dIykc70-2lbAAx4_rGhwl2DM6hy0yA-j08OeqMqTAqAvfLPj-1gKiR5L-Wck&usqp=CAU">
 <img width="70" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLE6aONJ2BzJ0Y62OtBCiZi8AWy1HnZiY15yuLf3ESBJ_XH3oV0g1R8QudiYcoEwlz3A&usqp=CAU">
 <img width="100" height="50" src="https://i.blogs.es/4803e5/jenkins/840_560.png">
+<img width="100" height="50" src="https://reactjs.org/logo-og.png">
+<img width="100" height="50" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs">
+<img width="100" height="50" src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png">
+
+
+
+
+
+
 
 
 
