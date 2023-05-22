@@ -1,7 +1,4 @@
 ## Hi everyone, I'm Danny 👋
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=magody.magody)
 <br />
 
 ### Take a look to my projects here -> https://magody.github.io/
